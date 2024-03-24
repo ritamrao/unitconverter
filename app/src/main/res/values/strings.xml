@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">unitconverter</string>
+    <string-array name = "units">
+        <item>Select your Unit</item>
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>metre</item>
+        <item>km</item>
+        <item>mile</item>
+        <item>kg</item>
+        <item>lbs</item>
+        <item>ounce</item>
+        <item>ton</item>
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="array_length_units">
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>metre</item>
+        <item>km</item>
+        <item>mile</item>
+    </string-array>
+
+    <string-array name="array_weight_units">
+        <item>kg</item>
+        <item>lbs</item>
+        <item>ounce</item>
+        <item>ton</item>
+    </string-array>
+
+    <string-array name="array_temperature_units">
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="array_default_units">
+        <item>Select Your Unit to be converted to</item>
+    </string-array>
+
+</resources>
